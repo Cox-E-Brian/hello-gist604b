@@ -1,6 +1,6 @@
 # Learning Log - M1A3 GitHub Repository Management
 
-**Student:** Brian Cox 
+**Student:** Brian Cox  
 **Date:** 10-26-2025
 ## What I Learned
 In this assignment, I learned:
