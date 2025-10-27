@@ -3,7 +3,7 @@ GIST 604B Assignment 3: Learning GitHub workflows and open source collaboration 
 
 # Hello GIST 604B
 
-**Student:** [Your Name]  
+**Student:** Brian Cox 
 **Course:** GIST 604B - Open Source GIS  
 **Assignment:** M1A3 - GitHub Repository Management  
 **University of Arizona**
