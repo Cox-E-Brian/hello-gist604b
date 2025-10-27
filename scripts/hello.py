@@ -11,12 +11,12 @@ University of Arizona
 def main():
     """Simple hello world function for GIST 604B"""
     print("Hello from GIST 604B!")
-    print(f"Student: [YOUR NAME HERE]")
+    print(f"Student: Brian Cox")
     print("Learning open source GIS workflows with GitHub")
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
     
     # Add your own message here!
-    print("[ADD YOUR OWN MESSAGE ABOUT WHY YOU'RE INTERESTED IN GIS]")
+    print("I am interested in learning open source GIS tools to improve public safety in my area.")
 
 if __name__ == "__main__":
     main()
